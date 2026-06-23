@@ -1,3 +1,5 @@
+https://github.com/jbackk-lang
+---
 # MAPA‑PO‑HELU — Koncepcyjna Struktura Materii w Trzech Skrętach Möbiusa
 
 **MAPA‑PO‑HELU** przedstawia układ pierwiastków jako  
@@ -108,3 +110,4 @@ Model może służyć do:
 - symbolicznego grupowania pierwiastków  
 - wizualizacji przejść materii  
 - interpretacji strukturalnej zamiast chemicz
+![Struktura braków](https://github.com/jbackk-lang/Boundary-Matter/blob/main/strukUzupel.png)
