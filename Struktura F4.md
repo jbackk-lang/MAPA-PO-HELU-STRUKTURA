@@ -177,3 +177,50 @@ Repo jest zgodne z F4 bez żadnych poprawek.
 MAPA‑PO‑HELU jest dokładnym odwzorowaniem jednej połówki F4.
 
 Model jest spójny z TIMDR/TRM i math‑validator‑2.0.
+
+10. Wzmocnienie wiązań przez redukcję jednego ramienia
+W klasycznej, „symetrycznej” figurze F4 (bez redukcji ramienia):
+
+wszystkie ramiona mają równy udział w sprzężeniach,
+
+konfiguracje są rozłożone bardziej równomiernie,
+
+wiązania są słabsze, bo układ ma więcej swobody.
+
+W tej konkretnej F4, użytej w MAPA‑PO‑HELU:
+
+jedno ramię jest zredukowane,
+
+trzy aktywne ramiona przejmują jego rolę,
+
+sprzężenia 
+𝐽
+𝑖
++
+,
+𝐽
+𝑖
+−
+ są mocniej dociśnięte.
+
+Efekt:
+
+większa gęstość sprzężeń na jednostkę struktury,
+
+mocniejsze wiązania topologiczne,
+
+większa stabilność lokalnych konfiguracji.
+
+To właśnie dlatego:
+
+126 konfiguracji materii w tej F4 są bardziej „twarde” niż w symetrycznej F4,
+
+redukcja jednego ramienia działa jak ściśnięcie układu,
+
+wiązania nie są „takie jak w zwykłej F4”, tylko wzmocnione przez redukcję.
+
+W skrócie:
+
+Ta F4 nie jest „normalna”.
+Jest zredukowaną F4, w której jedno ramię zostało ściągnięte,
+co powoduje wzmocnienie wiązań i większą stabilność 126 odtworzonych konfiguracji materii.
