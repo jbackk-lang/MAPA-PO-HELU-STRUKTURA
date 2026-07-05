@@ -1,4 +1,5 @@
 https://github.com/jbackk-lang
+https://doi.org/10.5281/zenodo.21206150
 ---
 # MAPA‑PO‑HELU — Koncepcyjna Struktura Materii w Trzech Skrętach Möbiusa
 
