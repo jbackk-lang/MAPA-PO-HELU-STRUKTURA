@@ -16,6 +16,23 @@ Hel jest jedynym pierwiastkiem, który nie zachowuje się jak klasyczna materia:
 - **Najniższy możliwy stan elektronowy** – powłoka 1s zamknięta.
 
 Te cechy czynią hel naturalnym **punktem skrętu** – wejściem do materii.
+
+**Dodatek (weryfikacja, sierpień 2026):** powyższe własności helu są
+prawdziwe, ale "wejście do materii" nie jest ścisłe chronologicznie. W
+nukleosyntezie pierwotnej (pierwsze ~20 minut po Wielkim Wybuchu) wolne
+protony (wodór) powstały pierwsze i dominują masowo (~75% materii
+barionowej), hel-4 (~25%) powstał później, z fuzji protonów i neutronów.
+Prawdziwy, konkretny powód wyjątkowości helu jest inny i mocniejszy niż
+lista własności powyżej: **luka masy 5 i 8** — nie istnieją stabilne
+jądra o masie atomowej 5 ani 8, więc nie da się zbudować cięższych
+pierwiastków przez proste, kolejne dodawanie nukleonów do wodoru. Trzeba
+"przeskoczyć" przez hel-4, a potem trzy jądra helu muszą połączyć się
+naraz w procesie potrójnym-alfa, tworząc węgiel-12 (masa 12), z
+pominięciem niestabilnych mas 5 i 8. To jest realny, sprawdzalny
+mechanizm nukleosyntezy gwiazdowej — hel jest "bramą" do cięższych
+pierwiastków nie dlatego, że był pierwszy, ale dlatego, że bez niego
+proces budowy cięższych jąder utyka na luce masowej. Pełna analiza w
+`SKAD_LICZBA_9.md`.
 ---
 
 ## 2. Żelazo (Fe) – drugi skręt: maksimum stabilności jąder

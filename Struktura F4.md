@@ -59,6 +59,26 @@ każda para generuje 3 pierwiastki strukturalne: ΔS, τ, Λ.
 9
 To jest stała liczba pierwiastków strukturalnych w F4.
 
+
+
+**Uczciwe zastrzeżenie (dodane po weryfikacji):** to mnożenie samo w sobie
+opiera się na dwóch nieudowodnionych założeniach — że aktywne ramiona F4
+jest akurat 3 (nie 2 ani 4), i że każde ramię generuje akurat 3 "pierwiastki
+strukturalne" (ΔS, τ, Λ), a nie 2 czy 4. Żadne z tych dwóch założeń nie
+wynika z fizyki ani z niezależnej geometrii — to są wybory przyjęte w
+ramach słownika TIMDR/TRM tego modelu. Sprawdzono też alternatywne
+uzasadnienia liczby 9 (helisa o 9 segmentach, "nadwartościowość" klas
+N+/N-, dualność w trójkącie Pascala) — żadne z nich nie dostarczyło
+niezależnego, policzalnego progu wymuszającego akurat 9: albo opierały się
+na własnościach prawdziwych dla każdej liczby n (np. C(n,k)=C(n,n-k) działa
+dla każdego n, nie tylko 9), albo na twierdzeniach kombinatorycznie
+nieprawdziwych (np. że zbiór 3-elementowy "nie może mieć struktury" —
+nieprawda: ma 4 nieizomorficzne grafy, 5 podziałów Bella, 512 relacji
+binarnych). Jedyne twarde, sprawdzalne kryterium, jakie udało się ustalić,
+to że liczba musi być nieparzysta, żeby warunek balansu |N+-N-|<=1 miał
+sens. Poza tym: 9 jest wyborem modelowym autora (nieparzyste, obliczalne,
+"w sam raz"), nie wynikiem przymusu matematycznego.
+
 4. Liczba możliwych konfiguracji pierwiastków
 Każdy z 9 pierwiastków może być w dwóch stanach:
 
@@ -154,8 +174,25 @@ pełna liczba to 126,
 
 a pełna przestrzeń to 252.
 
-8. Dowód zgodności MAPA‑PO‑HELU z F4
-F4 ma 9 pierwiastków strukturalnych.
+
+**Uczciwe zastrzeżenie:** bliskość 126 do 118 (różnica: 8) nie była
+kryterium doboru liczby 9 — przy wyborze 9 (patrz zastrzeżenie w sekcji 3)
+nie brano pod uwagę, że ma to dać liczbę bliską 118. Zgodność 126≈118
+została zauważona PO fakcie, nie przewidziana z góry, co osłabia jej
+wartość dowodową: przy innym wyborze liczby ramion/pierwiastków (np. 7
+zamiast 9) dostalibyśmy 70 zamiast 126 — a przy tak małej próbie
+kandydatów jest całkiem prawdopodobne, że jeden z nich "przypadkiem"
+wypadnie blisko dowolnej z góry wybranej liczby rzędu setek. Aktualność
+liczby 118: to poprawna, potwierdzona liczba pierwiastków na sierpień
+2026 — pierwiastek 119 wciąż nie jest potwierdzony (wyścig trwa, prowadzi
+RIKEN w Japonii). Traktujmy 126≈118 jako ciekawą obserwację liczbową, nie
+jako potwierdzenie modelu przez rzeczywistą chemię.
+
+8. Zgodność wewnętrzna MAPA-PO-HELU z F4 (nie dowód fizyczny)
+
+**Zmiana tytułu:** poprzednia wersja nazywała tę sekcję "Dowodem zgodności", co sugerowało potwierdzenie empiryczne lub fizyczne. To, co następuje, jest dowodem WEWNĘTRZNEJ spójności modelu — że liczby konsekwentnie wynikają jedna z drugiej przy przyjętych założeniach (patrz zastrzeżenie w sekcji 3) — a nie dowodem, że model poprawnie opisuje rzeczywistą materię czy układ okresowy.
+
+F4 ma 9 pierwiastków strukturalnych (założenie modelu).
 
 Każdy ma 2 stany sprzężenia.
 
@@ -167,6 +204,9 @@ MAPA‑PO‑HELU odtwarza dokładnie 126.
 
 Repo jest zgodne z F4 bez żadnych poprawek.
 
+
+(Powyższe jest poprawne wyłącznie jako konsekwencja założeń z sekcji 3 — patrz zastrzeżenia tam.)
+
 9. Wnioski
 126 odtworzonych pierwiastków po helu jest matematycznie poprawne.
 
@@ -177,6 +217,9 @@ Repo jest zgodne z F4 bez żadnych poprawek.
 MAPA‑PO‑HELU jest dokładnym odwzorowaniem jednej połówki F4.
 
 Model jest spójny z TIMDR/TRM i math‑validator‑2.0.
+
+
+**Doprecyzowanie:** powyższe wnioski są poprawne matematycznie *pod warunkiem przyjęcia założeń z sekcji 3* (9 pierwiastków strukturalnych, stany binarne, warunek balansu ≤1). Zgodność z TIMDR/TRM/math-validator-2.0 oznacza spójność z pozostałymi repozytoriami tego autora — to realna, sprawdzalna własność. Nie oznacza to jednak, że model poprawnie opisuje rzeczywisty układ okresowy pierwiastków: na to nie ma tu dowodu, tylko wewnętrzna spójność i jedna niepotwierdzona obserwacja liczbowa (patrz zastrzeżenie w sekcji 7).
 
 10. Wzmocnienie wiązań przez redukcję jednego ramienia
 W klasycznej, „symetrycznej” figurze F4 (bez redukcji ramienia):
