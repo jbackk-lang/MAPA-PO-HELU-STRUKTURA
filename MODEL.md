@@ -96,4 +96,14 @@ To jedyna reguła potrzebna do klasyfikacji.
 
 ---
 
+## 9. Jednostki i skalowanie
+
+Jeśli ktoś chce podpiąć pod pozycję He→Fe→Og realne wielkości fizyczne
+(częstotliwość, energię, krzywiznę) zamiast czystej symboliki — pełny
+aparat (indeks \(I\in[0,1]\), funkcje strukturalne, stałe skalujące
+\(\alpha_f,\alpha_E,\alpha_\kappa\), i zastrzeżenie co to zmienia a
+czego nie) jest w `JEDNOSTKI_I_SKALOWANIE.md`.
+
+---
+
 
