@@ -94,6 +94,22 @@ poprawnym**, nie **fizycznie prawdziwym**. W szczególności:
   żeby liczby He/Fe/Og miały jednostki, jeśli ktoś zechce ich użyć —
   nie tego, czy model jest prawdziwy.
 
+**Bramka fizycznej ważności (mechanizm + kalibracja).** Jedyna droga,
+żeby indeks He→Fe→Og przestał być symboliczną osią i stał się fizyką
+(dosłowny cytat z sesji, 2026-09-04):
+
+1. **Mechanizm** — jawne równanie / zasada wariacyjna, z której
+   geometria trzech skrętów WYMUSZA coś materio-podobnego, nie
+   odwzorowanie \(Z\to I\) dopisane po to, żeby oś miała współrzędną
+   (§1-2 wyżej).
+2. **Kalibracja** — \(\alpha_f,\alpha_E,\alpha_\kappa\) dobrane nie
+   „żeby liczby wyglądały", tylko z realnych pomiarów, nie z wyboru
+   „mnożnik 1, bo neutralny" jak w §3 wyżej.
+
+Dopóki oba warunki nie są spełnione RAZEM, ten dokument (jak i cała
+MAPA-PO-HELU-STRUKTURA) zostaje tym, czym mówi o sobie nagłówek
+`README.md`: mapą koncepcyjną, nie teorią naukową.
+
 ---
 
 Powiązane: `TIMDR_Gravity_Speculative.md` §4a w GIA-TIMDR (źródło tego
