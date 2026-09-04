@@ -267,3 +267,17 @@ W skrócie:
 Ta F4 nie jest „normalna”.
 Jest zredukowaną F4, w której jedno ramię zostało ściągnięte,
 co powoduje wzmocnienie wiązań i większą stabilność 126 odtworzonych konfiguracji materii.
+
+**Uczciwe zastrzeżenie (sekcja 10, dodane po weryfikacji):** w
+przeciwieństwie do sekcji 3-9, powyższe nie ma pod sobą żadnej liczby
+ani wzoru. „Gęstość sprzężeń", „siła wiązania topologicznego" i
+„stabilność lokalnych konfiguracji" nie są tu zdefiniowane ilościowo —
+nie ma formuły, która przeliczałaby redukcję jednego ramienia na
+konkretną wartość którejkolwiek z tych wielkości, więc nie da się
+sprawdzić, czy efekt jest w ogóle w kierunku, jaki opisano (silniejsze),
+czy przeciwnym (słabsze), czy zerowym. To narracyjne rozwinięcie
+obrazu "ściśnięcia" z sekcji 2 (jedno ramię zredukowane), nie wynik
+wyprowadzony z definicji w sekcji 3-4 (J⁺, J⁻, warunek balansu). Ten
+sam status co reszta łańcucha spekulacji opisanego w
+`SKAD_LICZBA_9.md` ("Co pozostaje niepotwierdzoną spekulacją") —
+możliwa inspiracja koncepcyjna, nie wykazany mechanizm.
